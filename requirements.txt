@@ -1,5 +1,5 @@
 opencv-python
 pytube
-mediapipe
+mediapipe==0.10.12
 numpy
 streamlit
