@@ -1,5 +1,5 @@
 opencv-python
 pytube
-mediapipe==0.10.14
+mediapipe-silicon>=0.10.0
 numpy
 streamlit
