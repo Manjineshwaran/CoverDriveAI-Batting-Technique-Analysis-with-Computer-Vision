@@ -1,0 +1,11 @@
+Category	Ideal Range	Feedback Rules	Score (1–10)
+Elbow Angle	110°–130°	✅ "Good elbow elevation" (Within range)
+❌ "Elbow too low/high" (Outside range)	10 (Ideal), 5 (Moderate), 1 (Poor)
+Spine Lean	5°–15° (forward)	✅ "Optimal spine lean"
+❌ "Over-leaning/too upright"	Based on deviation from ideal
+Head Position	Aligned over front knee	✅ "Head stable over knee"
+❌ "Head misaligned"	10 if aligned, lower if not
+Foot Angle	10°–30° (open stance)	✅ "Front foot positioned well"
+❌ "Foot closed/too open"	Score based on angle deviation
+Balance	Stable hip-shoulder	✅ "Good balance"
+❌ "Losing balance" (Excessive sway)	Deduct points for instability

@@ -1,0 +1,38 @@
+{
+  "overall_score": 3.816770065974092,
+  "metrics": {
+    "elbow_angle": {
+      "value": 63.86409139023555,
+      "min": 0.270954274829371,
+      "max": 172.23903789622588,
+      "score": 0.0,
+      "weight": 1.0,
+      "ideal": 0.0,
+      "tolerance": 30
+    },
+    "spine_lean": {
+      "value": 18.854968980207772,
+      "min": -3.109131394123657,
+      "max": 41.70367010505086,
+      "score": 11.450310197922276,
+      "weight": 1.0,
+      "ideal": 0.0,
+      "tolerance": 10
+    },
+    "foot_angle": {
+      "value": 126.149636746012,
+      "min": 70.70758549210196,
+      "max": 156.98944317944557,
+      "score": 0.0,
+      "weight": 1.0,
+      "ideal": 0.0,
+      "tolerance": 30
+    }
+  },
+  "feedback": [
+    "Needs improvement. Please review the feedback and practice the fundamentals.",
+    "Elbow Angle: 63.9 (Ideal: ?\u00b130)",
+    "Spine Lean: 18.9 (Ideal: ?\u00b110)",
+    "Foot Angle: 126.1 (Ideal: ?\u00b130)"
+  ]
+}
