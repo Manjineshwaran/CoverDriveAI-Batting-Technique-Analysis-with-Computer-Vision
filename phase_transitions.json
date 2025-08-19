@@ -1,0 +1,170 @@
+[
+  {
+    "frame": 5,
+    "from": "Pre-Stance",
+    "to": "Recovery",
+    "timestamp": 0.08333333333333333
+  },
+  {
+    "frame": 13,
+    "from": "Recovery",
+    "to": "Unknown",
+    "timestamp": 0.21666666666666667
+  },
+  {
+    "frame": 20,
+    "from": "Unknown",
+    "to": "Recovery",
+    "timestamp": 0.3333333333333333
+  },
+  {
+    "frame": 44,
+    "from": "Recovery",
+    "to": "Unknown",
+    "timestamp": 0.7333333333333333
+  },
+  {
+    "frame": 132,
+    "from": "Unknown",
+    "to": "Stride",
+    "timestamp": 2.2
+  },
+  {
+    "frame": 144,
+    "from": "Stride",
+    "to": "Backlift",
+    "timestamp": 2.4
+  },
+  {
+    "frame": 146,
+    "from": "Backlift",
+    "to": "Stride",
+    "timestamp": 2.433333333333333
+  },
+  {
+    "frame": 150,
+    "from": "Stride",
+    "to": "Unknown",
+    "timestamp": 2.5
+  },
+  {
+    "frame": 174,
+    "from": "Unknown",
+    "to": "Stance",
+    "timestamp": 2.9
+  },
+  {
+    "frame": 181,
+    "from": "Stance",
+    "to": "Unknown",
+    "timestamp": 3.0166666666666666
+  },
+  {
+    "frame": 182,
+    "from": "Unknown",
+    "to": "Stance",
+    "timestamp": 3.033333333333333
+  },
+  {
+    "frame": 186,
+    "from": "Stance",
+    "to": "Unknown",
+    "timestamp": 3.1
+  },
+  {
+    "frame": 189,
+    "from": "Unknown",
+    "to": "Stance",
+    "timestamp": 3.15
+  },
+  {
+    "frame": 204,
+    "from": "Stance",
+    "to": "Unknown",
+    "timestamp": 3.4
+  },
+  {
+    "frame": 206,
+    "from": "Unknown",
+    "to": "Stance",
+    "timestamp": 3.433333333333333
+  },
+  {
+    "frame": 211,
+    "from": "Stance",
+    "to": "Unknown",
+    "timestamp": 3.5166666666666666
+  },
+  {
+    "frame": 218,
+    "from": "Unknown",
+    "to": "Recovery",
+    "timestamp": 3.6333333333333333
+  },
+  {
+    "frame": 220,
+    "from": "Recovery",
+    "to": "Unknown",
+    "timestamp": 3.6666666666666665
+  },
+  {
+    "frame": 227,
+    "from": "Unknown",
+    "to": "Recovery",
+    "timestamp": 3.783333333333333
+  },
+  {
+    "frame": 236,
+    "from": "Recovery",
+    "to": "Unknown",
+    "timestamp": 3.933333333333333
+  },
+  {
+    "frame": 239,
+    "from": "Unknown",
+    "to": "Pre-Stance",
+    "timestamp": 3.9833333333333334
+  },
+  {
+    "frame": 243,
+    "from": "Pre-Stance",
+    "to": "Unknown",
+    "timestamp": 4.05
+  },
+  {
+    "frame": 244,
+    "from": "Unknown",
+    "to": "Backlift",
+    "timestamp": 4.066666666666666
+  },
+  {
+    "frame": 248,
+    "from": "Backlift",
+    "to": "Recovery",
+    "timestamp": 4.133333333333334
+  },
+  {
+    "frame": 249,
+    "from": "Recovery",
+    "to": "Backlift",
+    "timestamp": 4.15
+  },
+  {
+    "frame": 256,
+    "from": "Backlift",
+    "to": "Unknown",
+    "timestamp": 4.266666666666667
+  },
+  {
+    "frame": 259,
+    "from": "Unknown",
+    "to": "Pre-Stance",
+    "timestamp": 4.316666666666666
+  },
+  {
+    "frame": 271,
+    "from": "Pre-Stance",
+    "to": "Recovery",
+    "timestamp": 4.516666666666667
+  }
+]
